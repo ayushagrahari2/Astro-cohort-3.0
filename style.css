@@ -139,7 +139,8 @@ select{
     width: 40%;
     height: 80vh;
 }
-.second-section img{
+#hoody{
+    filter: drop-shadow(15px 15px 5px rgba(0, 0, 0, 0.5));
     height: 90vh;
     width: 45vw;
 }
